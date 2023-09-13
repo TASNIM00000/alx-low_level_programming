@@ -5,7 +5,7 @@
 
 /**
  * main - Entry point
- *Discription: 'char'
+ *Discription: 'alpha'
  * Return: Always 0 (Success)
  */
 void print_alphabet(void)
