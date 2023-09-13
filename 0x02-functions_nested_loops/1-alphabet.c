@@ -4,8 +4,8 @@
 #include "main.h"
 
 /**
- * main - Entry point
  * print_alphabet - Prints the alphabet in lowercase.
+ * Description: print alphaaa
  * Return: Always 0 (Success)
  */
 void print_alphabet(void)
