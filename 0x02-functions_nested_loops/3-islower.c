@@ -13,10 +13,10 @@
  */
 int _islower(int c)
 {
-int n = c ;
-for (int i = 97 ; i<=122 ; i++ )
+int i ;
+for ( i = 97 ; i<=122 ; i++ )
 {
-if (n == i)
+if (c == i)
 {
 return(1);
 }
