@@ -7,6 +7,10 @@
 int _abs(int n)
 {
 int abs;
-abs = (-1 * n);
-return (abs);
+if (n > 0)
+return (n);
+else if (n < 0)
+return (-n);
+else 
+return(0);
 }
