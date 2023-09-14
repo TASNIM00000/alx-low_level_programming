@@ -6,7 +6,6 @@
 */
 int _abs(int n)
 {
-int abs;
 if (n > 0)
 return (n);
 else if (n < 0)
