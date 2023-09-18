@@ -2,7 +2,7 @@
 #include <string.h>
 #include "main.h"
 /**
-*print_rev - checkk if a character is in lowercase
+*rev_string - checkk if a character is in lowercase
 *@s: pointer
 *Return: void
 */
