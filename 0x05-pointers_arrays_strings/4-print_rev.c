@@ -14,5 +14,6 @@ l = strlen(s);
 for (i = l ; i >= 0 ; i--)
 {
 putchar(s[i]);
+putchar('\n');
 }
 }
