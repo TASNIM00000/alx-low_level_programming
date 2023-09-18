@@ -13,6 +13,6 @@ int i;
 l = strlen(s);
 for (i = l ; i >= 0 ; i--)
 {
-_putchar(s[i]);
+putchar(s[i]);
 }
 }
