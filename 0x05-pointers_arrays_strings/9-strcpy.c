@@ -3,7 +3,7 @@
 #include "main.h"
 /**
 **_strcpy - checkk if a character is in lowercase
-*@dest: pointer 
+*@dest: pointer
 *@src: string
 *Return: void
 */
